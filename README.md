@@ -42,4 +42,4 @@ contact the mentor, with whom you can setup daily one on one or group meetings.
 
 
 # Projects
-- [User management(Python, FastAPI, Postgres)](https://github.com/nikasakandelidze/user-management-job-simulation)
+- [User management system(Python, FastAPI, Postgres)](https://github.com/nikasakandelidze/user-management-job-simulation)
