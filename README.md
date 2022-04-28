@@ -41,3 +41,5 @@ contact the mentor, with whom you can setup daily one on one or group meetings.
 - Documenting your API with industry standards.
 
 
+# Projects
+- [User management(Python, FastAPI, Postgres)](https://github.com/nikasakandelidze/user-management-job-simulation)
