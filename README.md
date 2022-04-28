@@ -17,7 +17,10 @@ Make sure to check it out:)
 
 # General idea and goal of the projects
 Each and every project listed below is project of different level(Easy, Medium, Hard), implemented using different technologies/frameworks,
-and they all solve theoritical business needs in different domains(for more fun).
+and they all solve theoritical business needs in different domains(for more fun). All of them needs some modification/bug fix/feature implementation, which you should do.
+
+
+## All of the projects, using all the different technologies have according, curated, tested resources,documents for learning attached. and you can always schedule a meeting with your mentor who can help with direct tasks or give further recommendations.
 
 - Choose project of your according level, of needed technology/framework and in according domain.
 - Clone the project on your local machine.
