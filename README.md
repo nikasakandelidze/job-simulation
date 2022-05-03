@@ -43,3 +43,4 @@ contact the mentor, with whom you can setup daily one on one or group meetings.
 
 # Projects
 - [User management system(Python, FastAPI, Postgres)](https://github.com/nikasakandelidze/user-management-job-simulation)
+- [User management system(Java, Spring, Hiberante, Postgres)](https://github.com/acho01/staff-management-system-job-simulation)
